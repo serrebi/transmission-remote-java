@@ -2,12 +2,7 @@
 
 = Introduction =
 
-Add your content here.
+This will be many screenshots ...
 
 
 = Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
